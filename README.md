@@ -68,7 +68,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxx,0.812345,0.112233
 
 ## Acknowledgments
 
-- Built on EvoDiff (OA-DM architecture and sampling routines) （https://github.com/microsoft/evodiff）
+- Built on EvoDiff (OA-DM architecture and sampling routines) (https://github.com/microsoft/evodiff)
 - Protein embeddings from ProtT5-XL (Rostlab)
 - Classifier heads trained separately, see notebook
 
